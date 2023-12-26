@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "9F7F0027-B433-41D0-9BE0-4C740042E554"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "0B428AE5-425E-41B1-813E-9A7A5F244E8C"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CodingPractice/ContentView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "110"
+            endingLineNumber = "110"
+            landmarkName = "body"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "0B428AE5-425E-41B1-813E-9A7A5F244E8C - 592ed835e6f9e935"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) suspend resume partial function for closure #1 @Sendable () async -&gt; () in closure #7 () -&gt; () in CodingPractice.ContentView.body.getter : some"
+                  moduleName = "CodingPractice"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ronjurincie/Desktop/CodingPractice/CodingPractice/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "111"
+                  endingLineNumber = "111"
+                  offsetFromSymbolStart = "600">
+               </Location>
+               <Location
+                  uuid = "0B428AE5-425E-41B1-813E-9A7A5F244E8C - 592ed835e6f9e954"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) suspend resume partial function for closure #1 @Sendable () async -&gt; () in closure #7 () -&gt; () in CodingPractice.ContentView.body.getter : some"
+                  moduleName = "CodingPractice"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ronjurincie/Desktop/CodingPractice/CodingPractice/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "110"
+                  endingLineNumber = "110"
+                  offsetFromSymbolStart = "324">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "9AA388DA-0E38-4B1E-B4B4-7FBFB86899E7"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CodingPractice/PropertyWrapperView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "27"
+            endingLineNumber = "27"
+            landmarkName = "body"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "9AA388DA-0E38-4B1E-B4B4-7FBFB86899E7 - cfc24a863accd64b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 () -&gt; () in CodingPractice.PropertyWrapperView.body.getter : some"
+                  moduleName = "CodingPractice"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ronjurincie/Desktop/CodingPractice/CodingPractice/PropertyWrapperView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "28"
+                  endingLineNumber = "28"
+                  offsetFromSymbolStart = "248">
+               </Location>
+               <Location
+                  uuid = "9AA388DA-0E38-4B1E-B4B4-7FBFB86899E7 - cfc24a863accd62a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 () -&gt; () in CodingPractice.PropertyWrapperView.body.getter : some"
+                  moduleName = "CodingPractice"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ronjurincie/Desktop/CodingPractice/CodingPractice/PropertyWrapperView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "27"
+                  endingLineNumber = "27"
+                  offsetFromSymbolStart = "248">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "6596D987-C011-4A0E-B525-CADB35E57111"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CodingPractice/FormView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "138"
+            endingLineNumber = "138"
+            landmarkName = "areAllFieldsFormattedCorrectly(username:password:emailAddress:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "AF39B6DB-A76A-445A-8F47-1D462456D443"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CodingPractice/FormView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "103"
+            endingLineNumber = "103"
+            landmarkName = "body"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "AF39B6DB-A76A-445A-8F47-1D462456D443 - 1c214dd2a7610e2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) suspend resume partial function for closure #1 @Sendable () async -&gt; () in closure #4 () -&gt; () in CodingPractice.FormView.body.getter : some"
+                  moduleName = "CodingPractice"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ronjurincie/Desktop/CodingPractice/CodingPractice/FormView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "102"
+                  endingLineNumber = "102"
+                  offsetFromSymbolStart = "1536">
+               </Location>
+               <Location
+                  uuid = "AF39B6DB-A76A-445A-8F47-1D462456D443 - 2551eb671c01d4e0"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for closure #1 @Sendable () async -&gt; () in closure #4 () -&gt; () in CodingPractice.FormView.body.getter : some"
+                  moduleName = "CodingPractice"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ronjurincie/Desktop/CodingPractice/CodingPractice/FormView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "102"
+                  endingLineNumber = "102"
+                  offsetFromSymbolStart = "348">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
