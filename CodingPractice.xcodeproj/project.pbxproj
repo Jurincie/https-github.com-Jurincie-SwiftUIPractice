@@ -18,6 +18,8 @@
 		7A8240252B3B4EDB0004910D /* ApiRouter.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7A8240242B3B4EDB0004910D /* ApiRouter.swift */; };
 		7A8240272B3B59850004910D /* ApiHandlerViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7A8240262B3B59850004910D /* ApiHandlerViewModel.swift */; };
 		7A8240292B3B60AB0004910D /* ApiHandlerTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7A8240282B3B60AB0004910D /* ApiHandlerTests.swift */; };
+		7A82402C2B3BAACA0004910D /* PropertyList.plist in Resources */ = {isa = PBXBuildFile; fileRef = 7A82402B2B3BAACA0004910D /* PropertyList.plist */; };
+		7A82402E2B3BB5410004910D /* MovieApiHandlerView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7A82402D2B3BB5410004910D /* MovieApiHandlerView.swift */; };
 		7ABEDAB02B34878500200A2A /* PropertyWrapperView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7ABEDAAF2B34878500200A2A /* PropertyWrapperView.swift */; };
 /* End PBXBuildFile section */
 
@@ -53,6 +55,9 @@
 		7A8240242B3B4EDB0004910D /* ApiRouter.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ApiRouter.swift; sourceTree = "<group>"; };
 		7A8240262B3B59850004910D /* ApiHandlerViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ApiHandlerViewModel.swift; sourceTree = "<group>"; };
 		7A8240282B3B60AB0004910D /* ApiHandlerTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ApiHandlerTests.swift; sourceTree = "<group>"; };
+		7A82402A2B3BA6600004910D /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist; path = Info.plist; sourceTree = "<group>"; };
+		7A82402B2B3BAACA0004910D /* PropertyList.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = PropertyList.plist; sourceTree = "<group>"; };
+		7A82402D2B3BB5410004910D /* MovieApiHandlerView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MovieApiHandlerView.swift; sourceTree = "<group>"; };
 		7ABEDAAF2B34878500200A2A /* PropertyWrapperView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PropertyWrapperView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -84,6 +89,7 @@
 		7A78D1782B327243001107FB = {
 			isa = PBXGroup;
 			children = (
+				7A82402B2B3BAACA0004910D /* PropertyList.plist */,
 				7A78D1832B327243001107FB /* CodingPractice */,
 				7A78D1942B327245001107FB /* CodingPracticeTests */,
 				7A78D19E2B327245001107FB /* CodingPracticeUITests */,
@@ -104,6 +110,7 @@
 		7A78D1832B327243001107FB /* CodingPractice */ = {
 			isa = PBXGroup;
 			children = (
+				7A82402A2B3BA6600004910D /* Info.plist */,
 				7A78D1842B327243001107FB /* CodingPracticeApp.swift */,
 				7ABEDAAF2B34878500200A2A /* PropertyWrapperView.swift */,
 				7A78D1862B327244001107FB /* FormView.swift */,
@@ -146,6 +153,7 @@
 				7A82401F2B3A092D0004910D /* ApiHandlerView.swift */,
 				7A8240242B3B4EDB0004910D /* ApiRouter.swift */,
 				7A8240262B3B59850004910D /* ApiHandlerViewModel.swift */,
+				7A82402D2B3BB5410004910D /* MovieApiHandlerView.swift */,
 			);
 			path = MockApi;
 			sourceTree = "<group>";
@@ -254,6 +262,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				7A82402C2B3BAACA0004910D /* PropertyList.plist in Resources */,
 				7A78D18C2B327245001107FB /* Preview Assets.xcassets in Resources */,
 				7A78D1892B327245001107FB /* Assets.xcassets in Resources */,
 			);
@@ -285,6 +294,7 @@
 				7A8240272B3B59850004910D /* ApiHandlerViewModel.swift in Sources */,
 				7A8240202B3A092D0004910D /* ApiHandlerView.swift in Sources */,
 				7A78D1852B327243001107FB /* CodingPracticeApp.swift in Sources */,
+				7A82402E2B3BB5410004910D /* MovieApiHandlerView.swift in Sources */,
 				7ABEDAB02B34878500200A2A /* PropertyWrapperView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -453,6 +463,7 @@
 				DEVELOPMENT_TEAM = J5T6Z5N38H;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = CodingPractice/Info.plist;
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
@@ -483,6 +494,7 @@
 				DEVELOPMENT_TEAM = J5T6Z5N38H;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = CodingPractice/Info.plist;
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;

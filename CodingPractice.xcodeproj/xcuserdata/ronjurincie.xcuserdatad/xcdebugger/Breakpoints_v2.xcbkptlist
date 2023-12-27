@@ -161,6 +161,132 @@
                   endingLineNumber = "102"
                   offsetFromSymbolStart = "348">
                </Location>
+               <Location
+                  uuid = "AF39B6DB-A76A-445A-8F47-1D462456D443 - 1c214dd2a761103"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) suspend resume partial function for closure #1 @Sendable () async -&gt; () in closure #4 () -&gt; () in CodingPractice.FormView.body.getter : some"
+                  moduleName = "CodingPractice"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ronjurincie/Desktop/CodingPractice/CodingPractice/FormView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "103"
+                  endingLineNumber = "103"
+                  offsetFromSymbolStart = "1536">
+               </Location>
+               <Location
+                  uuid = "AF39B6DB-A76A-445A-8F47-1D462456D443 - 2551eb671c01d501"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for closure #1 @Sendable () async -&gt; () in closure #4 () -&gt; () in CodingPractice.FormView.body.getter : some"
+                  moduleName = "CodingPractice"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ronjurincie/Desktop/CodingPractice/CodingPractice/FormView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "103"
+                  endingLineNumber = "103"
+                  offsetFromSymbolStart = "348">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "18FC783A-973F-4401-BC0B-FB823E532699"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CodingPractice/MockApi/ApiHandlerViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "37"
+            endingLineNumber = "37"
+            landmarkName = "loadMovies(page:)"
+            landmarkType = "9">
+            <Locations>
+               <Location
+                  uuid = "18FC783A-973F-4401-BC0B-FB823E532699 - ffce9363bdff4104"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for CodingPractice.loadMovies(page: Swift.Int) async throws -&gt; Swift.Array&lt;CodingPractice.Movie&gt;"
+                  moduleName = "CodingPractice"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ronjurincie/Desktop/CodingPractice/CodingPractice/MockApi/ApiHandlerViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "37"
+                  endingLineNumber = "37"
+                  offsetFromSymbolStart = "768">
+               </Location>
+               <Location
+                  uuid = "18FC783A-973F-4401-BC0B-FB823E532699 - 91b2723e3fa58315"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(4) suspend resume partial function for CodingPractice.loadMovies(page: Swift.Int) async throws -&gt; Swift.Array&lt;CodingPractice.Movie&gt;"
+                  moduleName = "CodingPractice"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ronjurincie/Desktop/CodingPractice/CodingPractice/MockApi/ApiHandlerViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "37"
+                  endingLineNumber = "37"
+                  offsetFromSymbolStart = "164">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E5DDC204-91C1-4975-8C1D-B8D2A8DC431C"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CodingPractice/MockApi/ApiHandlerViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "33"
+            endingLineNumber = "33"
+            landmarkName = "loadMovies(page:)"
+            landmarkType = "9">
+            <Locations>
+               <Location
+                  uuid = "E5DDC204-91C1-4975-8C1D-B8D2A8DC431C - ffce9363bdff41b8"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for CodingPractice.loadMovies(page: Swift.Int) async throws -&gt; Swift.Array&lt;CodingPractice.Movie&gt;"
+                  moduleName = "CodingPractice"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ronjurincie/Desktop/CodingPractice/CodingPractice/MockApi/ApiHandlerViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "33"
+                  endingLineNumber = "33"
+                  offsetFromSymbolStart = "288">
+               </Location>
+               <Location
+                  uuid = "E5DDC204-91C1-4975-8C1D-B8D2A8DC431C - ffce9363bdff41b8"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for CodingPractice.loadMovies(page: Swift.Int) async throws -&gt; Swift.Array&lt;CodingPractice.Movie&gt;"
+                  moduleName = "CodingPractice"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ronjurincie/Desktop/CodingPractice/CodingPractice/MockApi/ApiHandlerViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "33"
+                  endingLineNumber = "33"
+                  offsetFromSymbolStart = "216">
+               </Location>
             </Locations>
          </BreakpointContent>
       </BreakpointProxy>

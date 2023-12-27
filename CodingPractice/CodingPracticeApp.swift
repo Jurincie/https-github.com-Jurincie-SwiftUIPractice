@@ -11,7 +11,7 @@ import SwiftUI
 struct CodingPracticeApp: App {
     var body: some Scene {
         WindowGroup {
-            ApiHandlerView()
+            MovieApiHandlerView()
         }
     }
 }
